@@ -12,4 +12,13 @@ Sit dolor quos ut alias labore ut sint voluptatem aut officia consequatur et ven
 
 Saviez-vous que les harengs pètent pour communiquer? Eh oui...
 
+## TOTO
 C'est l'histoire de toto...
+
+La maîtresse dit à Toto :
+
+"Tu es épicier. J’entre dans ton magasin et je choisis une salade à 1 euro, un kilo de carottes à 3 euros et trois litres de jus d’oranges à 4,50 euros. Combien je te dois ?
+
+Toto réfléchit un moment et se met dans la peau de l’épicier,
+
+- Ne vous en faites pas ma p’tite dame, vous me réglerez votre note demain !"
